@@ -69,9 +69,9 @@ http://project-symfony.local:8081/api/v1/users/60cdbe07cdaa71546655ee43
 
 
 ## Ссылки
-https://ru.wikipedia.org/wiki/Список_кодов_состояния_HTTP 
-https://ru.wikipedia.org/wiki/REST
-https://developer.mozilla.org/ru/docs/Glossary/Idempotent  
+https://ru.wikipedia.org/wiki/Список_кодов_состояния_HTTP   
+https://ru.wikipedia.org/wiki/REST  
+https://developer.mozilla.org/ru/docs/Glossary/Idempotent    
 
 
 
